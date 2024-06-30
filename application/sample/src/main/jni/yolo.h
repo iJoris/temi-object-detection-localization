@@ -40,7 +40,7 @@ public:
 
     int load(AAssetManager* mgr, const char* modeltype, int target_size, const float* mean_vals, const float* norm_vals, bool use_gpu = false);
 
-    // default threshold is 0.7, adjust for evaluation if needed?
+    // default threshold is 0.7. Seemed fine when I was evaluating the model.
     int detect(const cv::Mat& rgb, std::vector<Object>& objects, int object_class, float prob_threshold = 0.7f, float nms_threshold = 0.5f);
 
     int draw(cv::Mat& rgb, const std::vector<Object>& objects);

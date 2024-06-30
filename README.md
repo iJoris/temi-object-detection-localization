@@ -2,7 +2,7 @@ Object Detection and Localization on a Temi Robot
 ========
 
 ![temi](temi.jpg)
-(Copyright image: [Temi](https://www.robotemi.com/)
+(Copyright image: [Temi](https://www.robotemi.com/))
 
 This repository is used to store the proof-of-concept and all the relevant resources that I used for my thesis "Towards a Smarter Robot".
 With this research we implemented object detection and localization on a Temi robot, thus making it a smarter robot.
@@ -38,7 +38,7 @@ To evaluate the localization of the robot we compared the estimated location of 
 
 -----
 ## Converted models
-During this research we converted two different YOLOv8 models to NCNN format so that we could use them in our Android Application. These converted models can be found in`models`.
+During this research we converted two different YOLOv8 models to NCNN format so that we could use them in our Android Application. These converted models can be found in the folder`models`.
 - Yolo Extra-large: `yolov8c.bin` and `yolov8c.param` -> used as default model;
 - Yolo Small: `yolov8s.bin` and `yolov8s.param`.
 
@@ -52,8 +52,8 @@ NCNN format used in the application to use the YOLOv8 model. https://github.com/
 
 OpenCV for image loading and processing. https://github.com/opencv/opencv
 
-Nanodet implementation. https://github.com/nihui/ncnn-android-nanodet
+YOLOv8 implementation on Android using NCNN. https://github.com/FeiGeChuanShu/ncnn-android-yolov8
 
-Example of a YOLO implementation. https://github.com/FeiGeChuanShu/ncnn-android-yolov8
+Nanodet implementation. https://github.com/nihui/ncnn-android-nanodet
 
 ChatGPT and GitHub Copilot general programming help such as advanced position calculations.

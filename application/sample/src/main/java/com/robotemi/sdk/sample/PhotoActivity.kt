@@ -605,7 +605,7 @@ class PhotoActivity : AppCompatActivity(), OnMovementStatusChangedListener,
                             endY,
                             detectionLine
                         )
-                        
+
                         // if using split photo draw with a angle
                     } else if (photo.detectionMode == 1) {
                         val lineLength = 60
