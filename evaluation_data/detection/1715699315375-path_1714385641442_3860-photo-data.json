@@ -1,0 +1,549 @@
+{
+  "methodId": 1,
+  "methodName": "split",
+  "photosTaken": [
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-0.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9558,
+        "y": 0.0208,
+        "yaw": 0.9587
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-1.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9567,
+        "y": 0.0197,
+        "yaw": 1.4815
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-2.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.96,
+        "y": 0.0206,
+        "yaw": 2.0481
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-3.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9667,
+        "y": 0.0218,
+        "yaw": 2.6102
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-4.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9749,
+        "y": 0.0175,
+        "yaw": -3.0708
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-5.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9729,
+        "y": 0.0177,
+        "yaw": -2.5198
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-6.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9885,
+        "y": 0.0212,
+        "yaw": -1.926
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-7.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9907,
+        "y": 0.0258,
+        "yaw": -1.39
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-8",
+      "index": 8,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-8.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9891,
+        "y": 0.032,
+        "yaw": -0.8013
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-9",
+      "index": 9,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-9.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9877,
+        "y": 0.0383,
+        "yaw": -0.1781
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-10",
+      "index": 10,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-10.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9832,
+        "y": 0.0412,
+        "yaw": 0.3143
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-0-11",
+      "index": 11,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-0-11.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.9819,
+        "y": 0.036,
+        "yaw": 0.8742
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-0.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3194,
+        "y": -0.209,
+        "yaw": 0.9961
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-1.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.323,
+        "y": -0.2149,
+        "yaw": 1.5215
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-2.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3274,
+        "y": -0.223,
+        "yaw": 2.0954
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-3.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3247,
+        "y": -0.2244,
+        "yaw": 2.6797
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-4.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.321,
+        "y": -0.2261,
+        "yaw": -3.0468
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-5.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.325,
+        "y": -0.2214,
+        "yaw": -2.4181
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-6.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3342,
+        "y": -0.2135,
+        "yaw": -1.8862
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-7.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3334,
+        "y": -0.2162,
+        "yaw": -1.3187
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-8",
+      "index": 8,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-8.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3362,
+        "y": -0.2078,
+        "yaw": -0.7653
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-9",
+      "index": 9,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-9.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3366,
+        "y": -0.1999,
+        "yaw": -0.2247
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-10",
+      "index": 10,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-10.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3289,
+        "y": -0.1967,
+        "yaw": 0.3863
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-1-11",
+      "index": 11,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-1-11.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.3216,
+        "y": -0.1999,
+        "yaw": 0.9939
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-0.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.6906,
+        "y": -2.0314,
+        "yaw": 1.0311
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-1.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.6901,
+        "y": -2.0351,
+        "yaw": 1.6879
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-2.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.6947,
+        "y": -2.0451,
+        "yaw": 2.2486
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-3.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.6992,
+        "y": -2.0479,
+        "yaw": 2.7914
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-4.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7007,
+        "y": -2.0569,
+        "yaw": -2.935
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-5.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7156,
+        "y": -2.0524,
+        "yaw": -2.3583
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-6.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7196,
+        "y": -2.0463,
+        "yaw": -1.7336
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-7.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.722,
+        "y": -2.0386,
+        "yaw": -1.1469
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-8",
+      "index": 8,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-8.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7303,
+        "y": -2.0366,
+        "yaw": -0.6938
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-9",
+      "index": 9,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-9.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.734,
+        "y": -2.0356,
+        "yaw": -0.027
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-10",
+      "index": 10,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-10.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7256,
+        "y": -2.0433,
+        "yaw": 0.5559
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    },
+    {
+      "analysedUri": "",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1715699315375-path_1714385641442_3860-2-11",
+      "index": 11,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1715699315375-path_1714385641442_3860-2-11.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.7302,
+        "y": -2.0459,
+        "yaw": 1.1738
+      },
+      "session": "1715699315375-path_1714385641442_3860"
+    }
+  ],
+  "rotations": 12,
+  "sessionId": "1715699315375-path_1714385641442_3860",
+  "stops": 3
+}
