@@ -1,0 +1,177 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:paddingTop="70dp"
+    android:weightSum="6"
+    tools:context=".PhotoActivity"
+    tools:ignore="HardcodedText">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Stops"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="8dp"/>
+
+            <Spinner
+                android:id="@+id/stops"
+                android:layout_width="match_parent"
+                android:background="@android:color/white"
+                android:layout_marginBottom="16dp"
+                android:padding="8dp"
+                android:minHeight="48dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rotations"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="8dp"/>
+
+            <Spinner
+                android:id="@+id/rotations"
+                android:layout_width="match_parent"
+                android:background="@android:color/white"
+                android:layout_marginBottom="16dp"
+                android:padding="8dp"
+                android:minHeight="48dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Method"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="8dp"/>
+
+            <Spinner
+                android:id="@+id/method"
+                android:layout_width="match_parent"
+                android:background="@android:color/white"
+                android:layout_marginBottom="16dp"
+                android:padding="8dp"
+                android:minHeight="48dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Object"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="8dp"/>
+
+            <Spinner
+                android:id="@+id/objectid"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="16dp"
+                android:padding="8dp"
+                android:minHeight="48dp"
+                android:background="@android:color/white"
+                android:layout_height="wrap_content" />
+
+            <Button
+                style="@style/ButtonCommon"
+                android:text="Start session"
+                android:id="@+id/start">
+            </Button>
+
+            <Button
+                android:id="@+id/moveObjectPos"
+                style="@style/ButtonCommon"
+                android:text="Move to object pos" />
+
+            <!--
+
+            Used for debugging
+
+            <Button
+                style="@style/ButtonCommon"
+                android:text="Analyze"
+                android:id="@+id/analyze">
+            </Button>
+
+            <Button
+                style="@style/ButtonCommon"
+                android:text="btnAnalyzePhotosCrop"
+                android:id="@+id/btnAnalyzePhotosCrop">
+            </Button>
+
+            <Button
+                style="@style/ButtonCommon"
+                android:text="Start queue"
+                android:id="@+id/queueBtn">
+            </Button>-->
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/previewLayout"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <androidx.camera.view.PreviewView
+            android:id="@+id/previewView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </androidx.camera.view.PreviewView>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageViewFace"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:visibility="gone"
+            tools:src="@mipmap/ic_launcher"
+            tools:visibility="visible" />
+
+        <TextView
+            android:id="@+id/objectPlacement"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="0dp"
+            android:text=""
+            android:textColor="@color/colorWhite"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageViewMap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>
