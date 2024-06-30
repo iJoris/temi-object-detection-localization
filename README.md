@@ -1,41 +1,43 @@
-Temi Yolo - Object Detection and Localization on a Temi Robot
+Object Detection and Localization on a Temi Robot
 ========
 
 ![temi](temi.jpg)
 
-This repository is used to store the proof-of-concept all the relevant code and data that I used for my thesis "Towards a Smarter Robot".
+This repository is used to store the proof-of-concept all the relevant resources that I used for my thesis "Towards a Smarter Robot".
 With this research we implemented object detection and localizing on a Temi robot, thus making it a smarter robot.
 
-The repository contains the following elements:
+The repository contains the following resources:
 - Android application;
-- Evaluation data;
+- Evaluation data used for the evaluation sessions;
 - The converted models in NCNN format.
 
 For more information the Temi robot check [this page](https://www.robotemi.com/developers/).
 
 -----
 ## Android application
-The Android application created for this project was based on the Temi SDK sample application, which can be found [here][https://github.com/robotemi/sdk/]. 
+The Android application created for this project was based on the Temi SDK sample application, which can be found [here](https://github.com/robotemi/sdk/). 
 The application was modified to include the YOLO object detection model and object localization via triangulation.
 
 ### Starting the application
 To run the application, you need to have the Temi robot and the Android Studio installed.
-The application can be run on the robot by connecting the robot to the computer via ADB, this requires using the developer tools on the Temi robot.
+The application can be run on the robot by connecting the robot to the computer via ADB, this requires using the developer tools to open the remote ADB port on the Temi robot.
 After that, start the application with the play button in Android Studio.
 
 Extended information on how to run the application can be found in a document made by me and Friso Turkstra called run_app.pdf.
 
 -----
 ## Evaluation data
-During the two evaluation sessions several photos were made by the Temi robot. These photos, including their scores can be found in the folder `evaluation_data`.
+During the two evaluation sessions we evaluated both the object detection model and the ability of the robot to localize an object in an environment. The raw and analyzed photos taken by the Temi robot including their metadata used for this evaluation can be found in the folder `evaluation_data`.
 
 ### Object detection data
+For each of the photos analyzed by the YOLOv8 model we noted the TP, FP, and FN values. This allowed for a calculation of the precision, recall, and F1-score per photo. Besides that with this data we could calculate the average recall per unique object. The data can be found in the folder `evaluation_data/object_detection`.
 
 ### Localization data
+To evaluate the localization of the robot we compared the estimated location of a object compared to the actual positon of a object. The estimation was done with a triangulation method that we employed. The estimated location was noted after a scanning session for each technique and configuration and was compared with the actual position. The data can be found in the folder `evaluation_data/localization`.
 
 -----
-## Converted model
-The converted YOLOv8 model converted to NCNN format that we used in the Android Application can be found in the folder `models`.
+## Converted models
+During this research we converted two different YOLOv8 models to NCNN format so that we could use them in our Android Application. These converted models can be found in`models`.
 - Yolo Extra-large: `yolov8c.bin` and `yolov8c.param` -> used as default model;
 - Yolo Small: `yolov8s.bin` and `yolov8s.param`.
 
