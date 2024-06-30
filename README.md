@@ -4,7 +4,7 @@ Object Detection and Localization on a Temi Robot
 ![temi](temi.jpg)
 (Copyright image: [Temi](https://www.robotemi.com/))
 
-This repository is used to store the proof-of-concept and all the relevant resources that I used for my thesis "Towards a Smarter Robot".
+This repository is used to store the proof-of-concept and all the relevant resources for the thesis "Towards a Smarter Robot".
 With this research we implemented object detection and localization on a Temi robot, thus making it a smarter robot.
 
 The repository contains the following resources:
@@ -12,7 +12,7 @@ The repository contains the following resources:
 - Raw photos used during evaluation data and the results of the evaluation;
 - The converted YOLOv8 models in NCNN format.
 
-For more information about the Temi robot check [their developer documentation](https://www.robotemi.com/developers/).
+For more information about the Temi robot see [their developer documentation](https://www.robotemi.com/developers/).
 
 -----
 ## Android application
