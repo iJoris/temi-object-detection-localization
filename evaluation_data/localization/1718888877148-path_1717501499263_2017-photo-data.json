@@ -1,0 +1,561 @@
+{
+  "methodId": 1,
+  "methodName": "split",
+  "objectLocation": 0,
+  "photosTaken": [
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170665040,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-0_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-0.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.819,
+        "y": 0.0465,
+        "yaw": 1.0283
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170677120,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-1_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-1.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8137,
+        "y": 0.0405,
+        "yaw": 1.8258
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170665200,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-2_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-2.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8137,
+        "y": 0.0361,
+        "yaw": 2.6782
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170635760,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-3_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-3.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8241,
+        "y": 0.0317,
+        "yaw": -2.8229
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170639440,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-4_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-4.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8358,
+        "y": 0.0344,
+        "yaw": -2.0308
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170650880,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-5_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-5.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8403,
+        "y": 0.0295,
+        "yaw": -1.2077
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170675760,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-6_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2115,
+          "confidence": 0.8614544,
+          "label": "chair",
+          "left": 1600,
+          "position": 2,
+          "right": 1870,
+          "top": 1710
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-6.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8301,
+        "y": 0.0562,
+        "yaw": -0.3812
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170663920,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-7_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2232,
+          "confidence": 0.82602924,
+          "label": "chair",
+          "left": 3446,
+          "position": 4,
+          "right": 3766,
+          "top": 1726
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-0-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-0-7.jpg",
+      "photoLocation": 0,
+      "photoPosition": {
+        "x": 0.8278,
+        "y": 0.0657,
+        "yaw": 0.4351
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170650640,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-0_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-0.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.159,
+        "y": -0.1022,
+        "yaw": 0.9783
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170664160,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-1_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-1.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1591,
+        "y": -0.1099,
+        "yaw": 1.8035
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170644080,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-2_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-2.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1575,
+        "y": -0.1164,
+        "yaw": 2.6002
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170642320,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-3_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-3.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1576,
+        "y": -0.1287,
+        "yaw": -2.8647
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170644960,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-4_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-4.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1658,
+        "y": -0.1309,
+        "yaw": -2.059
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170645440,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-5_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2993,
+          "confidence": 0.94436085,
+          "label": "chair",
+          "left": 0,
+          "position": 0,
+          "right": 868,
+          "top": 1991
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-5.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.182,
+        "y": -0.1207,
+        "yaw": -1.2454
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170659840,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-6_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2675,
+          "confidence": 0.9317821,
+          "label": "chair",
+          "left": 1862,
+          "position": 2,
+          "right": 2511,
+          "top": 1896
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-6.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1818,
+        "y": -0.1056,
+        "yaw": -0.4356
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170642080,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-7_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2999,
+          "confidence": 0.7324563,
+          "label": "chair",
+          "left": 3646,
+          "position": 4,
+          "right": 3997,
+          "top": 2021
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-1-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-1-7.jpg",
+      "photoLocation": 1,
+      "photoPosition": {
+        "x": 3.1698,
+        "y": -0.0947,
+        "yaw": 0.3653
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170650160,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-0_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2790,
+          "confidence": 0.917349,
+          "label": "chair",
+          "left": 1864,
+          "position": 2,
+          "right": 2472,
+          "top": 1841
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-0",
+      "index": 0,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-0.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.36,
+        "y": -2.2355,
+        "yaw": 1.0159
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170660160,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-1_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-1",
+      "index": 1,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-1.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.3594,
+        "y": -2.2399,
+        "yaw": 1.8355
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170658000,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-2_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-2",
+      "index": 2,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-2.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.3702,
+        "y": -2.2525,
+        "yaw": 2.5905
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170665920,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-3_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-3",
+      "index": 3,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-3.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.3738,
+        "y": -2.2626,
+        "yaw": -2.813
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170675200,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-4_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-4",
+      "index": 4,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-4.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.3937,
+        "y": -2.2573,
+        "yaw": -1.9839
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170674960,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-5_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-5",
+      "index": 5,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-5.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.4018,
+        "y": -2.2444,
+        "yaw": -1.1726
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170677280,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-6_result.jpg",
+      "detectedObjects": [],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-6",
+      "index": 6,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-6.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.4054,
+        "y": -2.2467,
+        "yaw": -0.3645
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    },
+    {
+      "analysedPhoto": {
+        "mHeight": 3000,
+        "mNativePtr": -5476376609170676720,
+        "mWidth": 4000
+      },
+      "analysedUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-7_result.jpg",
+      "detectedObjects": [
+        {
+          "bottom": 2921,
+          "confidence": 0.9216131,
+          "label": "chair",
+          "left": 687,
+          "position": 1,
+          "right": 1360,
+          "top": 1884
+        }
+      ],
+      "detectionMode": 1,
+      "fileName": "1718888877148-path_1717501499263_2017-2-7",
+      "index": 7,
+      "originalUri": "file:///storage/emulated/0/Android/media/com.robotemi.sdk.sample/photo_app/1718888877148-path_1717501499263_2017-2-7.jpg",
+      "photoLocation": 2,
+      "photoPosition": {
+        "x": 3.3985,
+        "y": -2.239,
+        "yaw": 0.4685
+      },
+      "session": "1718888877148-path_1717501499263_2017"
+    }
+  ],
+  "rotations": 8,
+  "sessionId": "1718888877148-path_1717501499263_2017",
+  "stops": 3,
+  "targetObject": 56
+}
